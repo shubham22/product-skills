@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch Blog"
+  short_description: "Write concise AWS-style feature launch blogs"
+  default_prompt: "Use $launch-blog to turn these feature notes and demo into a concise launch blog with a concrete opening, a we-led walkthrough, and useful visuals."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Behavioral Tests"
+  short_description: "Test product behavior, not implementation details"
+  default_prompt: "Use $behavioral-tests to write or review tests that catch observable product bugs and survive behavior-preserving refactors."

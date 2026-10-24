@@ -1,0 +1,5 @@
+# Team-specific skill notes stay on this machine
+private/
+
+# Packaged skill exports
+*.skill

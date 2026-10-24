@@ -1,0 +1,4 @@
+interface:
+  display_name: "Email Writer"
+  short_description: "Write short cold emails and replies in my voice"
+  default_prompt: "Use $email-writer to draft a reply or a short cold email in my voice, and show me the draft before anything is sent."
