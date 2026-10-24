@@ -52,3 +52,7 @@ The skills here stay generic so anyone can use them. To add your team's details,
 - The cold-email rules in email-writer adapt [Lavender](https://www.lavender.ai)'s research. The reply-rate percentages are Lavender's findings.
 - launch-blog takes its structure from the [AWS News Blog](https://aws.amazon.com/blogs/aws/) and [Kiro's launch post](https://kiro.dev/blog/introducing-kiro/).
 - technical-writer follows Amazon's narrative-memo style, and customer-notification follows the style of AWS service notifications.
+
+## License
+
+These skills are released under the [MIT License](LICENSE).
