@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Tropes Editor"
+  short_description: "Remove rhetorical habits that make drafts sound machine-written"
+  default_prompt: "Use $ai-tropes-editor to find and fix AI writing tropes in this draft while keeping my wording everywhere else."

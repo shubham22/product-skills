@@ -10,6 +10,7 @@ Agent skills for product work: design docs, launch posts, customer notices, one-
 | [launch-blog](launch-blog/SKILL.md) | Writes short feature launch posts with a concrete problem, a clear announcement, a hands-on walkthrough, and evidence in screenshots or GIFs. |
 | [customer-notification](customer-notification/SKILL.md) | Writes customer emails about pricing changes, plan limits, billing, plan retirements, deprecations, and incidents to the standard of AWS service notifications. |
 | [email-writer](email-writer/SKILL.md) | Drafts short cold emails based on Lavender's reply-rate research, plus replies, declines, and referrals in your own voice. It never sends a message you haven't approved. |
+| [ai-tropes-editor](ai-tropes-editor/SKILL.md) | Removes the rhetorical habits that make drafts sound machine-written, such as counted headings, slogans, staged reveals, and recaps that repeat the paragraph above them. technical-writer and email-writer use it when it is installed. |
 | [behavioral-tests](behavioral-tests/SKILL.md) | Writes and reviews tests that prove observable behavior instead of implementation details, using real databases and services in place of mocks. |
 | [write-discoverable-code](write-discoverable-code/SKILL.md) | Sets naming and comment rules so agents and people can find code with plain-text search. |
 
@@ -51,6 +52,7 @@ The skills here stay generic so anyone can use them. To add your team's details,
 
 - The cold-email rules in email-writer adapt [Lavender](https://www.lavender.ai)'s research. The reply-rate percentages are Lavender's findings.
 - launch-blog takes its structure from the [AWS News Blog](https://aws.amazon.com/blogs/aws/) and [Kiro's launch post](https://kiro.dev/blog/introducing-kiro/).
+- ai-tropes-editor adapts the AI-tropes list from the `scholarly-paper-revision` skill and [Wikipedia's guide to signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing).
 - technical-writer follows Amazon's narrative-memo style, and customer-notification follows the style of AWS service notifications.
 
 ## License

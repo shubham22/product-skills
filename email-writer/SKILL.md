@@ -76,7 +76,7 @@ Replies use the user's own voice, not Lavender's format.
 
 - **Write 3 to 5 short paragraphs of full sentences** in active voice, using "I".
 - **Inside an existing thread, skip the greeting.** Start with the content, not "Hi X".
-- **Avoid lines that sound machine-written,** such as "is exactly the kind of problem I…", "speaks for itself", and "easy to root for".
+- **Avoid lines that sound machine-written,** such as "is exactly the kind of problem I…", "speaks for itself", and "easy to root for". If the `ai-tropes-editor` skill is installed, run its checklist on the draft.
 - **Avoid short punchy filler** such as "That's on me." or "It meant a lot."
 - **Don't use exclamation marks, buzzwords, semicolons, or em dashes.**
 - **Keep praise simple and true,** such as "the founders' track record is outstanding". Never add specifics, statistics, or funding facts unless they come from a source the user gave or one you checked. Unverified claims are what the user most often has to strip from drafts.
