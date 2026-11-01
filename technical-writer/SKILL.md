@@ -51,7 +51,8 @@ Work in this order; each step feeds the next and skipping one shows in the draft
    diagram cannot. See "Diagrams" below and `assets/diagram-snippets.md`.
 7. **Cut.** Reread each paragraph asking "what does the reader lose if this goes?"
    Remove restatements of figures, hedges, throat-clearing, and anything that only shows
-   effort. Check the list in `references/style-guide.md`.
+   effort. Check the list in `references/style-guide.md`. If the `ai-tropes-editor`
+   skill is installed, run its checklist on the draft as well.
 8. **Verify and deliver.** Render the document, look at every page, then deliver in the
    format the audience uses (see "Delivery"). Send the file; don't describe it.
 
